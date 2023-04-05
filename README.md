@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Ishan! I'm a Technology Strategist, but I have previous experience in Embedded Systems programming and full-stack .NET development. 
+- 👋 Hi, I'm Ishan! I'm a Technology Strategist and I have previous experience in Embedded Systems programming and full-stack .NET development. 
 - 👀 I’m interested in learning about web teck stacks and native Windows and Linux cross-platform tech stacks.
 - 💞️ I’m looking to collaborate on anything software related, specifically full-stack development!
 - 📫 How to reach me: add me on Instagram @ishangodawatta.
