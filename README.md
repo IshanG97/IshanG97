@@ -1,3 +1,3 @@
 - 👋 Hi, I'm Ishan! I'm a Technology Strategist and I have experience in embedded systems programming and full-stack software development. 
-- 👀 I’m interested in learning about cross-platform native app development.
-- 🤝 I'm building my portfolio on full-stack software development.
+- 👀 My interests: cross-platform native app development, applications of Machine Learning including Generative and Discriminative AI, and the commercial impact and implications of technology.
+- 🤝 Open to connecting with anyone 
