@@ -1,3 +1,3 @@
 - 👋 Hi, I'm Ishan! I'm a Technology Strategist and I have experience in embedded systems programming and full-stack software development. 
 - 👀 My interests: cross-platform native app development, applications of Machine Learning including Generative and Discriminative AI, and the commercial impact and implications of technology.
-- 🤝 Open to connecting with anyone 
+- 🤝 Open to connecting with anyone passionate about the current implications of Generative AI and how on-device ML with smaller, discrete datasets can solve it.
