@@ -1,8 +1,7 @@
 - 👋 Hi, I'm Ishan! I'm a Software Engineer @ Arm
 - Past lives:
-    1. Technology Strategist
-    2. Mechatronic Engineering - including Embedded Systems Programming
-    3. Full-stack Software Development
+    1. Technology Strategist @ Arm
+    2. Mechatronic Engineering, Robotics, Automation and Embedded Systems Programming @ University of Manchester
 - 👀 Current interests: 
     1. Applications of Generative AI and ML, including commercial impact and implications
     2. Cross-platform app dev - focusing on flutter
