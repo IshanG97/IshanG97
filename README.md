@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Ishan! I'm a Senior Software Engineer @ Arm
 - 🤓 Current interests: 
-    1. How do we get to Artificial General Intelligence?
+    1. Have we met Artificial General Intelligence?
     2. Improving on-device ML model inference
     3. Improving productivity for humankind
     4. Cross-platform app dev - focusing on flutter
