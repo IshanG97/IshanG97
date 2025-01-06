@@ -2,7 +2,7 @@
 - 🤓 Current interests: 
     1. Have we met Artificial General Intelligence?
     2. Improving on-device ML model inference
-    3. Improving productivity for humankind
+    3. Improving productivity for humankind - embodied AI or second brain
     4. Cross-platform app dev - focusing on flutter
 - ⏳ Past lives:
     1. Technology Strategist @ Arm
