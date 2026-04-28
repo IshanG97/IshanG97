@@ -1,6 +1,8 @@
 👋 Hi, I'm Ishan!
 
-PromptBook: https://promptbook.gg/ishang97
+📈 PromptBook: https://promptbook.gg/ishang97
+
+💼 Current role: Senior Software Engineer @ Arm
 
 🤓 Current interests: 
 1. Improving interaction with AI for humankind - embodied AI and second brain
