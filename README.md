@@ -1,7 +1,5 @@
 👋 Hi, I'm Ishan!
 
-📈 PromptBook: https://promptbook.gg/ishang97
-
 💼 Current role: Senior Software Engineer @ Arm
 
 🤓 Current interests: 
@@ -12,3 +10,5 @@
 ⏳ Past lives:
 1. Technology Strategist @ Arm
 2. Mechatronic Engineering, Robotics, Automation and Embedded Systems Programming @ University of Manchester
+
+📈 PromptBook: https://promptbook.gg/ishang97
